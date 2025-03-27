@@ -14,7 +14,7 @@ We have sorted more than 1,000 articles by time and listed them in order. You ca
 
 Visualization of citation relationships for articles
 ----
-We have a super large csv file to store some of the citation relationships of these articles.We use a sphere and use time as the basis for latitude division, and we can get the following graph.
+We have a super large csv file to store some of the citation relationships of these articles.We use a sphere and use time as the basis for latitude division, and we can get the following graph.[https://github.com/jueminghaha/graph.github.io/blob/master/3d_citation_graph_only.html]
 
 ChatBot
 ---
